@@ -1,0 +1,56 @@
+{
+    "estilo":{
+        "Sertanejo" : {
+            "Artistas" : {
+                "Marilia Mendonça" : {
+                    "musica" : "https://youtu.be/Dt13Wv6Opeo?si=mZUk-j4AQcwkvGuA",
+                    "sobre" : "marilia.txt"
+                },
+                "Matheus e Kauan" : {
+                    "musica" : "https://youtu.be/IJmxyfbRg0A?si=QTAN4hue1jRJQqRy",
+                    "sobre" : "matheus_e_kauan.txt"
+                }
+
+            }
+        },
+        "Funk" : {
+            "Artistas" : {
+                "Negão Original" : {
+                    "musica" : "https://youtu.be/_qo2W3BcsiA?si=TecThrpO_W2zJmLJ",
+                    "sobre" : "original.txt"
+                },
+                "Mc Ryan SP" : {
+                    "musica" : "https://youtu.be/WQHYbOy7H2g?si=urVVDWirVR3qWJHp",
+                    "sobre" : "ryan_sp.txt"
+                }
+            }
+        },
+        "Rap" : {
+            "Artistas" : {
+                "7 Minutos" : {
+                    "musica" : "https://youtu.be/fMut2esOT5w?si=7umcVeM-fvGOEd7M",
+                    "sobre" : "7mnt.txt"
+                },
+                "AniRap" : {
+                    "musica" : "https://youtu.be/7ObwSzXzT4k?si=kKMrJ11j_kclXDJ9",
+                    "sobre" : "anirap.txt"
+                }
+            }
+        },
+
+        "Pagode" : {
+            "Artistas" : {
+                "pericles" : {
+                    "musica" : "https://youtu.be/aSfyjDLvcVo?si=soqGjnUfgczjsEv8",
+                    "sobre" : "pericles.txt"
+                },
+
+                "ferrugem" : {
+                    "musica" : "https://youtu.be/ZFICdvcRm0Q?si=wBzb2u0_JNF1WEcH",
+                    "sobre" : "ferrugem.txt"
+                }
+
+            }
+        }
+    }
+}
